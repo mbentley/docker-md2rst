@@ -1,6 +1,6 @@
 # rebased/repackaged base image that only updates existing packages
 FROM mbentley/ubuntu:18.04
-MAINTAINER Matt Bentley <mbentley@mbentley.net>
+LABEL maintainer="Matt Bentley <mbentley@mbentley.net>"
 
 #ENV LANG=C.UTF-8 LC_ALL=C.UTF-8
 
