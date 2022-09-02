@@ -1,7 +1,7 @@
 # mbentley/md2rst
 
 docker image for [md2rst](https://tox.readthedocs.io/en/latest/)
-based off of ubuntu:18.04
+based off of ubuntu:20.04
 
 To pull this image:
 `docker pull mbentley/md2rst`

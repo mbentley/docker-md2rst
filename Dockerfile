@@ -1,5 +1,5 @@
 # rebased/repackaged base image that only updates existing packages
-FROM mbentley/ubuntu:18.04
+FROM mbentley/ubuntu:20.04
 LABEL maintainer="Matt Bentley <mbentley@mbentley.net>"
 
 #ENV LANG=C.UTF-8 LC_ALL=C.UTF-8
