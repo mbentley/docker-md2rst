@@ -1,5 +1,7 @@
 # mbentley/md2rst
 
+**Warning**: this image is no longer maintained on Docker Hub but the code is left for an example.
+
 docker image for [md2rst](https://tox.readthedocs.io/en/latest/)
 based off of ubuntu:20.04
 
